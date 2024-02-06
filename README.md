@@ -1,7 +1,6 @@
 ## Welcome to My Github Repo
 
-Minneapolis, MN | 612-381-4773 | grant.d.matthews@gmail.com 
-
+Minneapolis, MN 
 linkedin.com/in/grant-matthews-7033ba150/  | https://github.com/grantmatthews18
 
 <!---
